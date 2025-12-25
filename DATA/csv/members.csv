@@ -1,0 +1,101 @@
+member_id,name,age,gender,city,join_date,member_status,income_bracket
+1,Jason Sullivan,79,M,Lake Miranda,2021-03-24,Active,High
+2,Brian Powers,68,M,West Matthew,2021-01-20,Active,Low
+3,Colleen Murphy,39,M,North Matthewstad,2022-02-24,Inactive,Low
+4,Ashley Campbell,45,M,Port Linda,2024-03-08,Active,High
+5,Henry Moore,22,F,New Melissaborough,2022-04-16,Inactive,High
+6,Christina Ayers,65,M,Cartermouth,2022-06-19,Inactive,Low
+7,James Harris,63,F,Port Lisafort,2022-05-02,Active,Low
+8,Chad White,74,M,Port Lisashire,2025-08-26,Active,High
+9,Stephanie Kaufman,23,M,Reevesland,2021-02-15,Active,Low
+10,Alexander Sims,38,F,Lake Veronicaview,2022-09-18,Inactive,Low
+11,Aaron Stafford,62,M,New Karenbury,2021-01-22,Inactive,Medium
+12,Brenda Levine,71,F,Williamshire,2025-02-19,Active,Medium
+13,Christina Chen,29,M,Guerrastad,2021-08-04,Active,Medium
+14,Amber Daniels,63,M,Sloanmouth,2023-04-18,Inactive,High
+15,Gabriel Stanton,55,M,Phelpsberg,2024-07-14,Active,Medium
+16,Emily Thomas,44,M,South Phillipmouth,2020-12-25,Active,High
+17,Ernest Reed,78,F,Angelicastad,2023-11-25,Inactive,High
+18,Tyler Bailey,52,M,North Jerry,2024-04-28,Active,High
+19,Katherine Luna,37,F,Danielborough,2022-03-10,Inactive,Low
+20,Brian Mcmillan,24,F,Port Tyler,2024-06-12,Inactive,Low
+21,Michael Cisneros,53,M,South Ellenchester,2021-11-21,Inactive,High
+22,Willie Young,42,M,Rebeccahaven,2025-03-19,Active,High
+23,Mr. Christopher Watts Jr.,72,M,New Timothy,2021-09-02,Inactive,High
+24,Kristen Johnson,45,M,West Johnmouth,2025-08-15,Inactive,High
+25,Brandon Johnson,72,F,North Kimberly,2023-09-23,Inactive,Medium
+26,Destiny Fitzgerald,57,M,West Jamesport,2024-09-14,Inactive,Medium
+27,Margaret Brown,75,F,Rodriguezfort,2024-08-18,Active,Low
+28,Veronica Blair,47,F,Freemanstad,2025-09-30,Active,High
+29,Stacey Russell,69,M,East Robertfurt,2025-03-25,Inactive,Medium
+30,David Wilson,44,M,East Suzanne,2023-03-31,Inactive,Low
+31,Susan Chandler,72,F,Frostbury,2025-05-21,Active,Low
+32,Christy Jones,68,F,Port Donnaport,2023-09-14,Inactive,High
+33,James Blake,60,F,Gravesmouth,2025-06-22,Inactive,Low
+34,Jackie Davis,21,M,Mendozachester,2022-05-08,Inactive,Medium
+35,Colin Stevens,59,F,South Andrew,2023-02-17,Active,High
+36,Jason Griffith,62,F,Mirandaland,2023-06-29,Active,High
+37,Madison Johnson,74,M,Michaelchester,2024-07-22,Active,Low
+38,Suzanne Nelson,60,M,West Johnshire,2024-08-08,Inactive,Medium
+39,James Torres,28,F,Sethfort,2023-03-06,Inactive,Medium
+40,Dawn Stephens DDS,54,M,Lake Ashleyview,2022-12-20,Inactive,Low
+41,Gregory Sandoval,64,M,North Laurentown,2025-03-10,Active,High
+42,Erika Fox,37,M,West Randy,2021-11-20,Active,High
+43,Brett Chavez,63,F,Port Jenna,2022-02-12,Active,High
+44,Craig Rose,50,M,Williamstown,2022-10-27,Active,Low
+45,Jennifer Marks,63,F,Toddtown,2024-02-03,Active,High
+46,Gabrielle Atkinson,66,M,Brianton,2023-02-13,Active,Medium
+47,Alan Cole,19,F,Ronaldstad,2023-11-13,Active,Low
+48,Jason Hubbard,61,M,Bridgetport,2023-08-11,Active,Medium
+49,Timothy Black,36,F,East Nathan,2024-06-29,Inactive,High
+50,Kenneth Kelly,48,F,Grayfurt,2024-01-24,Active,High
+51,Julie Austin,40,M,North Christopher,2025-09-13,Active,Low
+52,Kelly Young,36,M,Port Carl,2023-11-24,Inactive,Low
+53,Stephen Warner,38,M,South Toniview,2024-11-10,Inactive,Medium
+54,Mr. Robert Rodriguez,57,M,Billshire,2022-07-14,Active,Medium
+55,Joseph Bennett,54,F,Shannonview,2025-04-17,Active,Low
+56,Brandi Welch,27,M,South Raymondside,2022-04-22,Inactive,Medium
+57,Ronald White,80,M,West Brianna,2024-07-24,Active,High
+58,Austin Martinez,54,M,East Jessica,2023-05-14,Active,Low
+59,Tina Lowe,40,M,Philipmouth,2024-10-04,Active,Low
+60,Robert Donaldson,60,F,Christopherhaven,2024-03-20,Inactive,Low
+61,Elizabeth Silva,74,F,New Samuelfort,2024-05-05,Inactive,Medium
+62,Connor Lee,76,F,Port Meredithtown,2022-05-01,Inactive,High
+63,Daniel Oneal,70,M,West Kristinton,2024-01-16,Inactive,High
+64,Brian Curtis,41,F,New Karen,2022-03-03,Active,Low
+65,Jeffrey Rodriguez,32,M,Hallshire,2025-07-15,Active,High
+66,Andrew Wallace,61,F,New Kelsey,2021-09-06,Inactive,Low
+67,Brooke Diaz,49,F,Marquezberg,2025-04-19,Inactive,High
+68,Daniel Campos,31,F,Lake Justinport,2025-07-27,Inactive,Medium
+69,Raymond Rowe,19,M,New Joemouth,2021-10-13,Inactive,Medium
+70,Jorge Cain,44,F,South Jose,2021-05-26,Inactive,High
+71,James Kennedy,68,M,North Jennifer,2025-01-27,Inactive,Low
+72,Veronica Hendrix,33,F,Port Amanda,2021-06-11,Active,Medium
+73,Kathleen Davis,54,M,South Cheryl,2021-05-15,Active,Medium
+74,Pamela Banks,36,F,Port Pamelaton,2022-02-12,Active,Medium
+75,Jennifer Guzman MD,72,F,East Robertport,2023-03-08,Active,Low
+76,David Wilson,64,F,Matthewville,2021-12-13,Inactive,Medium
+77,Matthew Adams,33,F,Port Stephanieshire,2022-10-27,Inactive,Low
+78,Amy King,29,M,Lake Sarahaven,2025-03-26,Inactive,High
+79,Dana Simmons,68,F,Victoriaburgh,2023-05-03,Active,Low
+80,Adam Villanueva,42,F,Port Shirley,2025-02-27,Inactive,High
+81,Michelle Schaefer,46,M,South Thomashaven,2022-04-14,Inactive,Medium
+82,Lawrence Adkins,34,F,Duncanhaven,2021-04-22,Inactive,Medium
+83,Heather Smith,18,F,South Angela,2024-06-21,Active,High
+84,Matthew Dillon,77,F,Jonathanburgh,2023-03-11,Active,High
+85,Karen Paul,49,M,Elizabethhaven,2025-03-29,Inactive,Medium
+86,Sara Wolf,68,F,Sergioborough,2023-10-16,Active,Medium
+87,Christine Jackson,45,F,Hallville,2023-03-20,Inactive,Low
+88,James Brown,39,F,Kellychester,2024-06-30,Active,Medium
+89,Aimee Dunn,59,F,North Meredithview,2021-01-07,Active,Medium
+90,Lisa Cruz,20,F,Hollyshire,2022-07-21,Active,Medium
+91,Allen Branch,72,M,North Crystalbury,2023-12-19,Active,Low
+92,Victoria Ruiz,19,M,Diazberg,2024-03-16,Inactive,Medium
+93,Cheryl Webster,49,F,Jaimeborough,2024-07-20,Active,Low
+94,Megan Hughes MD,37,M,East Maria,2022-04-25,Active,Medium
+95,Michael Graham,26,M,North Joseland,2021-08-28,Inactive,High
+96,Alison Khan,31,M,Castanedatown,2025-03-25,Inactive,Low
+97,Julia Moore,26,M,East Gabrielview,2022-08-13,Active,Low
+98,Michael Jones,61,M,Port Stefaniemouth,2022-06-13,Active,High
+99,Preston Gonzales,60,M,North Christina,2025-03-12,Inactive,Medium
+100,Emily Scott,29,M,West Christy,2025-06-09,Inactive,Low

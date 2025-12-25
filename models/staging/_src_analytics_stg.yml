@@ -1,0 +1,36 @@
+sources:
+  - name: analytics_stg
+    database: analytics
+    schema: STG
+    tables:
+      - name: members
+        columns:
+          - name: member_id
+            data_tests:
+              - unique
+              - not_null
+          - name: join_date
+            data_tests:
+              - not_null
+      - name: transactions
+        columns:
+          - name: txn_id
+            data_tests:
+              - not_null
+          - name: member_id
+            data_tests:
+              - not_null
+      - name: visits
+        columns: 
+          - name: visit_id
+            data_tests:
+              - not_null
+          - name: member_id
+            data_tests:
+              - not_null
+        
+
+              
+
+
+                
